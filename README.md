@@ -4,8 +4,8 @@ Vector logos of universities of Bangladesh
 
 ## How to contribute
 
-1. Clone this repository.
-2. Add your logo(s) to the repo, logo files must meet the requirements described [here](#logo-requirements)
+1. Fork this repository.
+2. Add your logo(s) to the forked repo, logo files must meet the requirements described [here](#logo-requirements)
 3. Send a pull request
 
 ## Logo requirements
