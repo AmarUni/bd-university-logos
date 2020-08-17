@@ -14,7 +14,8 @@ A logo file must fulfil these conditions to be acceptable for this repository.
 - Logo must be an SVG file.
 - Dimension should be 120px in height and width.
 - 10px space around the content should be left in every direction as margin.
-- All texts mast be converted to path.
+- All texts must be converted to path.
 - All paths should be filled with appropriate colours.
 - Paths should not have stroke colours.
 - SVG should not contain any groups.
+- Filename should be the full name of the university, all small letters, replace space with underscore('_').
